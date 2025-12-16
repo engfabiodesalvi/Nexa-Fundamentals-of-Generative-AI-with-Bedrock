@@ -1,7 +1,8 @@
 [➡️ Português](#português)\
 [➡️ English](#english)\
 [➡️ Español](#español)
-# Português
+### Português
+# IA no Cotidiano - Contextualização
 Agora, vamos explorar como as Inteligências Artificiais estão se tornando cada vez mais comuns em nosso dia a dia. Abordaremos diferentes temas para que você possa entender a importância e o impacto dessas tecnologias em nossas vidas.
 
 Começaremos com uma discussão sobre chatbots e assistentes virtuais. Provavelmente você já ouviu falar do ChatGPT, criado pela OpenAI, assim como do Bing Chat, oferecido pela Microsoft e do Google Bard. Tais chatbots estão presentes em diferentes plataformas e têm ajudado a facilitar a interação das pessoas com a tecnologia.
@@ -22,7 +23,7 @@ Essa abordagem individualizada e inovadora abre caminho para uma compreensão ma
 
 Na sequência, vamos conhecer na prática um pouco mais sobre algumas ferramentas incríveis suportadas por Inteligência Artificial, que incluem chatbots, geradores de imagens, serviços de reconhecimento de fala e avatares virtuais, como eu. Para isso, vou deixar vocês com o Venilton, mas já já estarei de volta. Fechado?
 
-# English
+### English
 Now, let's explore how Artificial Intelligences are becoming increasingly common in our daily lives. We'll discuss various topics so you can understand the importance and impact of these technologies in our lives.
 
 We'll start with a discussion about chatbots and virtual assistants. You've probably heard of ChatGPT by OpenAI, as well as Bing Chat by Microsoft and Google Bard. Such chatbots are present on different platforms and have helped to facilitate people's interaction with technology.
@@ -43,7 +44,7 @@ This individualized and innovative approach paves the way for a deeper understan
 
 Next, we'll get to know a little more about some incredible tools supported by Artificial Intelligence in practice, which include chatbots, image generators, speech recognition services, and virtual avatars, like me. For now, I'll leave you with Venilton, but I'll be back soon. Agreed?
 
-# Español
+### Español
 Ahora, exploraremos cómo la Inteligencia Artificial se está volviendo cada vez más común en nuestra vida diaria. Cubriremos varios temas para que puedas comprender la importancia y el impacto de estas tecnologías en nuestras vidas.
 
 Comenzaremos con una discusión sobre chatbots y asistentes virtuales. Probablemente hayas oído hablar de ChatGPT, creado por OpenAI, así como de Bing Chat de Microsoft y Google Bard. Estos chatbots están presentes en diferentes plataformas y han ayudado a facilitar la interacción de las personas con la tecnología.
