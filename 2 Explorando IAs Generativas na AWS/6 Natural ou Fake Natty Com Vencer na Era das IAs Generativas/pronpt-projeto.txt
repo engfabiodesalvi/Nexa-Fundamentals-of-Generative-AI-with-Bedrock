@@ -1,0 +1,36 @@
+[inicio: regra de negocio]
+Gere um documento descrevendo as etapas de criação de um projeto para um estabelecimento comercial que realiza vendas de marmitas.
+O estabelecimento ira:
+- criar as imagens dos produtos utilizando assistência de inteligência artificial.
+Na criação deste projeto
+- implementar um atendimento ao cliente via chatbot para realizar os pedidos.
+- os pedidos podem ser as opções disponíveis no cardápio ou pode ser uma opção diferenciada. as opções personalizadas deverão ser pedidas antecipadamente e poderão ter preço diferenciado.
+- identificar o padrão de consumo do cliente e sugerir pratos personalizados.
+- sugerir opções personalizadas de menu baseadas em sugestões de pratos com base em sugestões fornecidas pel cliente.
+- oferecer preços personalizados para pedidos recorrentes pessoais ou empresariais.
+
+
+utilizando as inteligencias artificiais atuais para o auxilio do processamento de dados e seguindo  o esquema abaixo que define um readme para um repositório no git hub sugira as inteligências artificiais que melhor se enquadrariam no desenvolvimento deste projeto
+[fim: regra de negocio]
+
+[inicio: modelo de readme que deverá ser seguido]
+# Título do Projeto Extremamente Aesthetic ;)
+
+## 📒 Descrição
+Breve descrição do seu projeto
+
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
+[fim: modelo de readme que deverá ser seguido]
+
+faça uma verificação do arquivo readme e certifique-se que consta s regras de negocio.
+
